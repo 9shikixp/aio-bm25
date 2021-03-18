@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-*data/
-*ir_dump/
+data/*
+ir_dump/*
 !data/.gitkeep
 !ir_dump/.gitkeep
