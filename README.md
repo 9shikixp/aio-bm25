@@ -22,7 +22,7 @@ $ python -m unidic download
 
 ## 事前準備
 `data/`配下に，AI王で配布された`all_entities.json.gz`と`train_questions.json`を置きます．  
-`notebooks/build_inverted_index.ipynb`を上のセルから順番に実行すると，  `ir_dumps/`に検索に用いる転置インデックスファイルなどが作成されます．  
+`notebooks/build_inverted_index.ipynb`を上のセルから順番に実行すると，  `ir_dumps/`に検索に用いる転置インデックスファイルなどが作成されます．  
 
 ## 各ファイルの説明
 ### notebooks/build_inverted_index.ipynb
