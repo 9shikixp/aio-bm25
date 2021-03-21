@@ -9,6 +9,7 @@ python = "^3.8"
 jupyterlab = "^3.0.10"
 mecab-python3 = "^1.0.3"
 unidic = "^1.0.3"
+tqdm = "^4.59.0"
 
 [tool.poetry.dev-dependencies]
 
